@@ -1,5 +1,5 @@
 void main() {
-  print(calculate(0));
+  print(calculate(60));
 }
 
 String calculate(int number) {
